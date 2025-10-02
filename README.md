@@ -1,6 +1,8 @@
-# MegaETH-Bot 🚀
+# 🌙 MegaETH-Bot - Retrodrop Automation Bot 
 
 A powerful and flexible Ethereum Layer 2 automation tool with multiple features for MegaETH testnet activities.
+
+**SUPPORT >>>** [@jackthedevv](https://t.me/jackthedevv) **<<< SUPPORT**
 
 ## 🌟 Features
 - ✨ Multi-threaded processing
